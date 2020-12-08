@@ -1,0 +1,23 @@
+body {
+    font-family: 'Nerko One', cursive;
+    display: flex;
+    justify-content: space-around;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4yELgKMoO9wcE86xaVnsGiEbipWgDfLogMWrJlSoe33oI1c5X:https://get.pxhere.com/photo/dish-food-cuisine-meal-breakfast-cereal-granola-breakfast-snack-ingredient-muesli-vegetarian-food-Rolled-oats-cereal-raisin-bran-trail-mix-produce-oat-oatmeal-recipe-mixture-Complete-wheat-bran-flakes-nut-1614138.jpg&usqp=CAU");
+}
+
+h1 {
+    color: #045762;
+    font-size: 3em;
+}
+
+h2 {
+    color: #4e8d7c;
+}
+
+.header {
+    background-color: peachpuff;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
